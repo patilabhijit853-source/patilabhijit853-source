@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhijit Patil
 
-<!--
-**patilabhijit853-source/patilabhijit853-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps Engineer 
 
-Here are some ideas to get you started:
+### 💻 Skills
+- AWS (EC2, S3, IAM)
+- Docker
+- Kubernetes (Basics)
+- Terraform
+- Linux
+- Jenkins CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- AWS EC2 Infrastructure using Terraform
+- Dockerized Web Application
+- CI/CD Pipeline using Jenkins
+
+### 📫 Contact
+- Email: patilabhijit853@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abhijit-patil-devops/
+- GitHub: https://github.com/patilabhijit853-source
