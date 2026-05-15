@@ -14,6 +14,8 @@
 - AWS EC2 Infrastructure using Terraform
 - Dockerized Web Application
 - CI/CD Pipeline using Jenkins
+- 3tire-application-deployment-using-k8s-docker-
+- claude-code 
 
 ### 📫 Contact
 - Email: patilabhijit853@gmail.com
