@@ -3,9 +3,9 @@
 ## 🚀 DevOps Engineer 
 
 ### 💻 Skills
-- AWS (EC2, S3, IAM)
+- AWS 
 - Docker
-- Kubernetes (Basics)
+- Kubernetes 
 - Terraform
 - Linux
 - Jenkins CI/CD
